@@ -1,0 +1,1 @@
+window.map_api_key = "<?php echo Config::get('services.map.api')?>"
